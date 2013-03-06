@@ -1,0 +1,15 @@
+{
+  "name": "hoox",
+  "description": "dMVC - Plugin / Interface Service",
+  "version": "0.0.0",
+  "author": "nomilous <nomilous@gmail.com>",
+  "contributors": [
+    {
+      "name": "nomilous",
+      "email": "nomilous@gmail.com"
+    }
+  ],
+  "repository": "git@github.com:nomilous/hoox.git",
+  "dependencies": {},
+  "devDependencies": {}
+}
